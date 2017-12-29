@@ -1,6 +1,8 @@
 body{
   margin-left: 10%;
   margin-right: 10%;
+  font-family: Arial;
+  background-color: #e0e0e0;
 }
 
 form{
@@ -18,4 +20,19 @@ input.input-texto{
   font-size: 1.0em;
 }
 
+.section_1{
+  width: 50%;
+}
 
+.section_2{
+  width: 50%;
+  display: inline-block;
+}
+
+.border{
+  
+}
+
+.back_white{
+  background-color: #FFF;
+}
